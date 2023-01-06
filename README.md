@@ -25,3 +25,4 @@ You need to download and set webdriver.chrome.driver property in application.pro
 Please refer https://qmetry.github.io/qaf/ 
 Thanks,
 QAS Team.
+# qaf-blank-project-maven-master
