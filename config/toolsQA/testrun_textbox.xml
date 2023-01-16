@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TOOL QA" verbose="0">
+	<test name="text box" enabled="true">
+		<classes>
+			<class name="com.toolsQA.TextBoxTest"></class>
+		</classes>
+	</test>
+</suite>
