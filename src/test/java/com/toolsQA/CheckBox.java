@@ -54,7 +54,7 @@ public class CheckBox extends WebDriverTestBase {
             }
             download.click();
             try {
-                sleep(5);
+                sleep(10);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
