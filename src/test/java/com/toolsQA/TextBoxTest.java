@@ -39,9 +39,7 @@ public class TextBoxTest extends WebDriverTestCase {
 
     @Test(priority = 2)
     public void textboxForm(){
-
     scenario().given("I am tools qa text box page",()->{
-
     }).when("",()->{
         fullName.sendKeys("waseem shaik");
         email.sendKeys("shaik@gmail.com");
@@ -56,6 +54,5 @@ public class TextBoxTest extends WebDriverTestCase {
     }).then("",()->{
 
     }).execute();
-
     }
 }
